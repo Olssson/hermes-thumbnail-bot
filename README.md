@@ -13,23 +13,13 @@
 - **Zestaw w jednej ofercie.** Pokaż produkt i dołączone akcesoria na jednym obrazie — jak w [opublikowanym przykładzie KD4082 + KD2100](docs/real-case-review.md). Kompozycję przygotowujesz osobno i importujesz do profilu do końcowego eksportu.
 - **Spójna seria wariantów.** Przygotuj miniatury dla kilku kolorów lub rozmiarów na podstawie zdjęcia każdego wariantu. Ustaw ten sam format i marginesy, bez cyfrowego przemalowywania produktu.
 
-### Galeria: zdjęcie źródłowe, miniatura i detal
+### KD308: zestaw kluczy i bitów
 
-[![Zdjęcie źródłowe kompresora KD4082](demo/case-kd4082-kd2100/KD4082_01.jpg)](demo/case-kd4082-kd2100/KD4082_01.jpg)
+![KD308: po lewej otwarta walizka, po prawej zamknięta walizka z rozłożonymi narzędziami](demo/kd308-portfolio.jpg)
 
-**Zdjęcie źródłowe KD4082** — rzeczywisty materiał wejściowy z katalogu.
+**Materiał:** otwarta walizka. **Gotowa kompozycja:** walizka i narzędzia. Po prawej pokazano osobne zdjęcie katalogowe wybrane jako miniatura oferty, nie obraz wygenerowany z lewego zdjęcia.
 
-[![Kwadratowa miniatura kompresora KD4082](demo/kd4082-square.jpg)](demo/kd4082-square.jpg)
-
-**Miniatura główna, 1200 × 1200 px** — lokalny eksport na białym tle, bez rozciągania obrazu.
-
-[![Bliższy kadr kompresora KD4082](demo/kd4082-detail.jpg)](demo/kd4082-detail.jpg)
-
-**Bliższy kadr, 800 × 800 px** — osobno wykadrowany fragment tego samego zdjęcia, nie nowa perspektywa wygenerowana przez AI.
-
-![Akcesoria KD2100](demo/case-kd4082-kd2100/KD2100_01.jpg)
-
-**Akcesoria KD2100 osobno** — drugie rzeczywiste zdjęcie źródłowe. Na planszy u góry widać, jak oba produkty wyglądają razem w zapisanej miniaturze zestawu.
+Materiały w `demo/` nie są objęte licencją MIT.
 
 ## Instalacja
 
@@ -66,4 +56,4 @@ Przy **100 gotowych miniaturach**, **3 minutach pracy na sztukę**, stawce **60 
 
 Dla porównania [Marszał Studio](https://marszalstudio.pl/fotografia-produktowa-cennik/) podaje **39 zł netto / 47,97 zł brutto** za packshot na białym tle bez retuszu. To cena wykonania zdjęcia od zera; nasz scenariusz zakłada, że zdjęcie już istnieje. Nie są to usługi 1:1. Zobacz [założenia i sposób pomiaru](docs/cost-benchmark.md).
 
-Demo nie zawiera firmowych zdjęć, katalogów, ciasteczek ani danych logowania. Wersja publiczna nie automatyzuje logowania ani pobierania wyników z ChatGPT i nie zakłada obchodzenia limitów.
+Demo zawiera tylko wybrane materiały produktowe, bez pełnego katalogu, ciasteczek ani danych logowania. Wersja publiczna nie automatyzuje logowania ani pobierania wyników z ChatGPT i nie zakłada obchodzenia limitów.
