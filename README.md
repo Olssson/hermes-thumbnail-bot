@@ -1,5 +1,7 @@
 # Hermes Thumbnail Bot
 
+**Dla oceniających:** [uruchom demo bez konta i kluczy](QUICKSTART.md).
+
 **Masz już zdjęcia produktów? Przygotuj z nich spójne miniatury do sklepu i na marketplace bez zamawiania nowej sesji dla każdego SKU.**
 
 ![Zdjęcia kompresora i akcesoriów oraz wynikowa miniatura zestawu](demo/real-case-review.png)
