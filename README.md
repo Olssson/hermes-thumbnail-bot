@@ -48,6 +48,8 @@ To publiczna wersja profilu do lokalnej obróbki, nie kopia systemu produkcyjneg
 
 ## Jak wygląda proces
 
+[Konfiguracja katalogu i przejście przez ChatGPT Web](docs/catalog-web.md). Skill przygotowuje prompt dla konkretnego SKU; operator generuje i pobiera obraz w przeglądarce.
+
 1. Podajesz zdjęcie, do którego masz prawo.
 2. Jeśli chcesz wygenerować wariant w ChatGPT, robisz to ręcznie w przeglądarce i zapisujesz obraz. Lokalny etap nie wymaga klucza API ani dostępu do sesji.
 3. Narzędzie lokalnie ujednolica kadr, tło, marginesy i format eksportu. Przed publikacją sprawdzasz zgodność produktu, koloru i etykiety ze zdjęciem źródłowym.
