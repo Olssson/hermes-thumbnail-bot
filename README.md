@@ -13,7 +13,23 @@
 - **Zestaw w jednej ofercie.** Pokaż produkt i dołączone akcesoria na jednym obrazie — jak w [opublikowanym przykładzie KD4082 + KD2100](docs/real-case-review.md). Kompozycję przygotowujesz osobno i importujesz do profilu do końcowego eksportu.
 - **Spójna seria wariantów.** Przygotuj miniatury dla kilku kolorów lub rozmiarów na podstawie zdjęcia każdego wariantu. Ustaw ten sam format i marginesy, bez cyfrowego przemalowywania produktu.
 
-Przykład zestawu zawiera rzeczywiste zdjęcia i zapisany wynik. Pozostałe punkty opisują zastosowania, nie dodatkowe opublikowane realizacje.
+### Galeria: zdjęcie źródłowe, miniatura i detal
+
+[![Zdjęcie źródłowe kompresora KD4082](demo/case-kd4082-kd2100/KD4082_01.jpg)](demo/case-kd4082-kd2100/KD4082_01.jpg)
+
+**Zdjęcie źródłowe KD4082** — rzeczywisty materiał wejściowy z katalogu.
+
+[![Kwadratowa miniatura kompresora KD4082](demo/kd4082-square.jpg)](demo/kd4082-square.jpg)
+
+**Miniatura główna, 1200 × 1200 px** — lokalny eksport na białym tle, bez rozciągania obrazu.
+
+[![Bliższy kadr kompresora KD4082](demo/kd4082-detail.jpg)](demo/kd4082-detail.jpg)
+
+**Bliższy kadr, 800 × 800 px** — osobno wykadrowany fragment tego samego zdjęcia, nie nowa perspektywa wygenerowana przez AI.
+
+![Akcesoria KD2100](demo/case-kd4082-kd2100/KD2100_01.jpg)
+
+**Akcesoria KD2100 osobno** — drugie rzeczywiste zdjęcie źródłowe. Na planszy u góry widać, jak oba produkty wyglądają razem w zapisanej miniaturze zestawu.
 
 ## Instalacja
 
