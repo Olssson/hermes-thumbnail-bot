@@ -1,0 +1,7 @@
+# Merge these settings after `hermes setup model`; keep your chosen provider/model.
+# Do not copy tokens, credentials, or messaging settings into this repository.
+memory:
+  memory_enabled: false
+  user_profile_enabled: false
+security:
+  redact_secrets: true

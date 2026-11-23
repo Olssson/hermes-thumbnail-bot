@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite*
+__pycache__/
+.pytest_cache/
+.venv/
+input/
+output/
+logs/
+browser_data/
+chrome_profile/
+*cookie*.json
+auth.json
