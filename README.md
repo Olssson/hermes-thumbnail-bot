@@ -1,6 +1,8 @@
 # Hermes Thumbnail Bot
 
-**Dla oceniających:** [uruchom demo bez konta i kluczy](QUICKSTART.md).
+**Dla oceniających:** [uruchom demo bez konta i kluczy](QUICKSTART.md) · [gotowe prompty i konfiguracja własnego katalogu](docs/prompts.md).
+
+Ze względu na [warunki korzystania z OpenAI](https://openai.com/policies/eu-terms-of-use/) publiczne repo nie zawiera konfiguracji automatycznego przesyłania zdjęć i promptów do ChatGPT Web ani pobierania wyników z zalogowanej sesji. Udostępniamy zamiast tego prompty do przygotowania miniatur i dopasowania procesu do własnego katalogu, z możliwością integracji przez oficjalne API lub lokalny generator.
 
 **Masz już zdjęcia produktów? Przygotuj z nich spójne miniatury do sklepu i na marketplace bez zamawiania nowej sesji dla każdego SKU.**
 
