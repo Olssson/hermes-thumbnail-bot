@@ -17,7 +17,7 @@
 
 ![KD308: po lewej otwarta walizka, po prawej zamknięta walizka z rozłożonymi narzędziami](demo/kd308-portfolio.jpg)
 
-**Materiał:** otwarta walizka. **Gotowa kompozycja:** walizka i narzędzia. Po prawej pokazano osobne zdjęcie katalogowe wybrane jako miniatura oferty, nie obraz wygenerowany z lewego zdjęcia.
+***Rzeczywisty przykład:** otwarta walizka. **Gotowa kompozycja:** walizka i narzędzia. Po prawej pokazano zdjęcie wygenerowane jako miniatura oferty.
 
 Materiały w `demo/` nie są objęte licencją MIT.
 
