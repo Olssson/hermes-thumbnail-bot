@@ -6,6 +6,15 @@
 
 **Rzeczywisty przykład:** kompresor KD4082 i akcesoria KD2100 → jedna miniatura oferty. Pokazujemy zapisany wynik z istniejącego projektu, a nie obraz wygenerowany przez publiczny profil. Zobacz [opis przypadku i zdjęcia](docs/real-case-review.md).
 
+## Przykłady miniaturek do e-commerce
+
+- **Jeden produkt z wielu stron.** Z osobnych zdjęć kompresora przygotuj spójną galerię: przód jako miniatura główna, bok i tył jako kolejne ujęcia. Każde zdjęcie eksportujesz w tym samym formacie, z podobnym marginesem. Profil nie tworzy widoku tyłu ze zdjęcia przodu.
+- **Zbliżenie na detal.** Dodaj do galerii osobne zdjęcie manometru, przyłączy albo panelu sterowania, żeby kupujący mógł je obejrzeć bez powiększania głównej miniatury.
+- **Zestaw w jednej ofercie.** Pokaż produkt i dołączone akcesoria na jednym obrazie — jak w [opublikowanym przykładzie KD4082 + KD2100](docs/real-case-review.md). Kompozycję przygotowujesz osobno i importujesz do profilu do końcowego eksportu.
+- **Spójna seria wariantów.** Przygotuj miniatury dla kilku kolorów lub rozmiarów na podstawie zdjęcia każdego wariantu. Ustaw ten sam format i marginesy, bez cyfrowego przemalowywania produktu.
+
+Przykład zestawu zawiera rzeczywiste zdjęcia i zapisany wynik. Pozostałe punkty opisują zastosowania, nie dodatkowe opublikowane realizacje.
+
 ## Instalacja
 
 Wymagania: [Hermes Agent](https://hermes-agent.nousresearch.com/docs/) i ImageMagick 6 lub 7. Po sklonowaniu repozytorium uruchom z jego katalogu poniższe polecenia. Użyj nowej nazwy profilu; jeśli `catalogdemo` już istnieje, wybierz inną nazwę i zmień ją we wszystkich poleceniach. Nie wykonuj kolejnych kroków, jeżeli tworzenie profilu się nie powiedzie.
